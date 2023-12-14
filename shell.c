@@ -10,7 +10,7 @@
 * @sizbff: size of bufferr allocated in command
 * @read_com: number of bytes read from the user input
 * @path_command: stores the full path exceutable for the user command
-* Return : 0 for success
+* Return: 0 for success
 */
 int main(void)
 {

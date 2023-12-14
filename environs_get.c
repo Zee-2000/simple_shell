@@ -1,5 +1,11 @@
 #include "shell.h"
 #include <stddef.h>
+/**
+ * *environs_get - the main func
+ * @environs_name: cheack value
+ *
+ * Return: null
+ */
 
 char *environs_get(const char *environs_name)
 {
