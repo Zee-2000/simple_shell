@@ -1,8 +1,8 @@
 #include <stdlib.h>
 /**
-*duplicate_string - allocates a new memory
+* *duplicate_string - allocates a new memory
 * @s: constant character
-* Return : A new string that is an exact copy of the input string
+* Return: A new string that is an exact copy of the input string
 */
 char *duplicate_string(const char *s)
 {
