@@ -1,5 +1,14 @@
 #include "shell.h"
 #include <stdlib.h>
+<<<<<<< HEAD
+/**
+* merge_paths - combines between two paths 
+* @n_s: separator between two paths
+* @p1: first path string
+* @p2: second path string
+* Return: Merged paths
+*/
+=======
 
 /*
  * *merge_paths - the main function
@@ -9,6 +18,7 @@
  * Return: merge
  */
 
+>>>>>>> f587919941f7a346212a8b41eda8dfa36c657e5f
 char *merge_paths(const char n_s, const char *p1, const char *p2)
 {
 	size_t x = 0, y = 0;
