@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-char *command = NULL;
+char *command = 0;
 char *rgu[] = {NULL, NULL};
 size_t sizbff = 0;
 ssize_t read_com = 0;
