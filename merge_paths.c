@@ -1,6 +1,14 @@
 #include "shell.h"
 #include <stdlib.h>
 
+/*
+ * *merge_paths - the main function
+ * @n_s: value
+ * @p1: value
+ * @p2: value
+ * Return: merge
+ */
+
 char *merge_paths(const char n_s, const char *p1, const char *p2)
 {
 	size_t x = 0, y = 0;
