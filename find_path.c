@@ -4,6 +4,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+/**
+ * *find_path - the main fun
+ * @path_name: value
+ * Return: the path
+ */
 
 char *find_path(const char *path_name)
 {
