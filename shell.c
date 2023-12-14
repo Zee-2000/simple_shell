@@ -4,19 +4,9 @@
 #include <stdlib.h>
 #include <sys/wait.h>
 /**
-<<<<<<< HEAD
-* main -  entry point for shell program shell program
-* @command: command written in shell
-* @rgu: array of strings that stores the command and its 1st argument
-* @sizbff: size of bufferr allocated in command
-* @read_com: number of bytes read from the user input
-* @path_command: stores the full path exceutable for the user command
-* Return: 0 for success
-=======
-* main -  Simple shell heart
-* Return : 0
->>>>>>> a2ac0be3e17e7911af77eaae7fe2c5f8073a7b07
-*/
+ * main -  entry point for shell program shell progra.
+ * Return: 0 for success.
+ */
 int main(void)
 {
 char *command = NULL;
